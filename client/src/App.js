@@ -32,7 +32,7 @@ class App extends Component {
             }
         )
     return (
-      <div className="App">
+      <div className={"grid"}>
         <h1>Pokemon</h1>
           {DataMap}
       </div>
